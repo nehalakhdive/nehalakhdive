@@ -12,7 +12,7 @@
 
 <!-- Social & Portfolio Pills -->
 <p>
-  <a href="https://www.linkedin.com/in/neha-lakhdive">
+  <a href="https://www.linkedin.com/in/nehalakhdive-dev">
     <img src="https://img.shields.io/badge/LinkedIn-FFB3C6?style=for-the-badge&logo=linkedin&logoColor=4A154B" alt="LinkedIn" />
   </a>
   <a href="mailto:nehalakhdive@gmail.com">
