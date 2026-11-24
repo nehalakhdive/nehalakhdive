@@ -1,125 +1,114 @@
 <div align="center">
 
-<!-- Fluid Pastel Pink & Lavender Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3C6,50:FF85A2,100:E0AAFF&height=220&section=header&text=Hi%2C%20I'm%20Neha%20Lakhdive!%20%E2%9C%A8&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Girly%20Pop%20in%20Tech%20%F0%9F%8E%80&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Neha Lakhdive Header" />
+<!-- Dark Cyber-Plum to Hot Barbie Pink Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,45:9D4EDD,100:FF1493&height=225§ion=header&text=This%20Barbie%20is%20an%20Engineer%20%E2%9C%A8&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Hi%2C%20I'm%20Neha%20Lakhdive%20%7C%20Full-Stack%20Software%20Developer%20%F0%9F%92%BB%F0%9F%8E%80&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="This Barbie is an Engineer Header" />
 
-<!-- Responsive Animated Typing Tagline -->
+<!-- Animated Typing Tagline -->
 <a href="https://github.com/nehalakhdive">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=D63384&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Developer+%40+CrelioHealth+%F0%9F%92%BB;Crafting+React%2C+TypeScript%2C+Python+%26+Django+Systems+%E2%9C%A8;Best+Paper+Awardee+%40+ICRACE-2026+(Modi+Script+OCR)+%F0%9F%8F%86;Turning+matcha+%26+caffeine+into+630%2B+passing+tests+%F0%9F%8D%B5%F0%9F%8C%B8" alt="Animated Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=1000&color=FF1493¢er=true&vCenter=true&width=660&lines=coder+girl+%5Bkoh-der+g%C9%99%3Al%5D+%E2%80%A2+sorceress%2C+witch%2C+fairy+%E2%9C%A8;Full-Stack+Developer+%7C+React%2C+TypeScript%2C+Python+%26+Django+%F0%9F%92%BB;Best+Paper+Awardee+%40+ICRACE-2026+(Modi+Script+OCR)+%F0%9F%8F%86;Making+backend+architecture+cute%2C+fast+%26+resilient+%F0%9F%8C%B8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Auto-Wrapping Social & Status Pills -->
+<!-- Social & Profile Pills -->
 <p align="center">
-  <a href="[https://www.linkedin.com/in/nehalakhdive-dev/](https://www.linkedin.com/in/nehalakhdive-dev/)">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB3C6?style=for-the-badge&logo=linkedin&logoColor=4A154B" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nehalakhdive-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:nehalakhdive@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello-E0AAFF?style=for-the-badge&logo=gmail&logoColor=4A154B" alt="Email" />
+    <img src="https://img.shields.io/badge/Say_Hello-9D4EDD?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Pune%2C_India-F7CAD0?style=for-the-badge&logo=googlemaps&logoColor=4A154B" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=nehalakhdive&label=Profile+Views&color=ff85a2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Pune%2C_India-1A1025?style=for-the-badge&logo=googlemaps&logoColor=FF69B4" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=nehalakhdive&label=Profile+Views&color=FF1493&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 🎀 About Me
+<!-- Responsive Floated Pixel-Art Coder Girl + Dictionary Definition -->
+<img align="right" width="265" src="./coder-girl.jpg" alt="Lo-fi pixel art girl coding at dual monitors" />
 
-Hi, I'm **Neha** (`she/her`) — a **Full-Stack Software Developer** who loves clean UI aesthetics just as much as rock-solid backend architecture. ✨
+### 🎀 `coder girl` *[koh-der gə:l]*
+> **noun** — *A girl with magical powers who can hack your day.*  
+> **Synonyms:** *sorceress, witch, fairy* ✨
 
-Over the past **1.5+ years at [CrelioHealth](https://creliohealth.com/)**, I've grown from an Engineering Intern to a full-time Software Developer, shipping end-to-end features across **React, TypeScript, Python, and Django** for cloud-based Laboratory and Radiology Information Systems (LIMS/RIS) used by diagnostic labs and hospitals worldwide.
+Hi, I'm **Neha** (`she/her`) — a **Full-Stack Software Developer** who loves dark-mode terminals with hot-pink syntax highlighting just as much as rock-solid distributed backends. 💻🌸
 
-When I'm not refactoring upload pipelines or chasing down edge-case exceptions, you'll find me experimenting with **computer vision & deep learning** (my **ResNet-50** pipeline for historical Modi Script OCR won the **Best Paper Award at ICRACE-2026** 🏆), designing pastel UI graphics, or hunting down the best cafes in Pune. 🌸
+With **1.5+ years of production full-stack engineering experience**, I build scalable web applications across **React, TypeScript, Python, and Django**—turning complex clinical and enterprise workflows into snappy, intuitive interfaces.
 
-#### 💖 Engineering Highlights & Impact
-- 🧪 **Test Architecture:** Expanded end-to-end automated test coverage to **632 tests** across frontend and backend using **Jest, React Testing Library, and pytest**.
-- 🚀 **High-Throughput File Workflows:** Standardized file-handling pipelines across **14 application screens**, boosting upload capacity **6x** while instrumenting observability across **113 failure paths**.
-- 🛡️ **Production Reliability & Security:** Squashed **15 high-priority production exceptions**, architected structured audit logging across **7 core user actions**, executed zero-downtime **MySQL** migrations, and replaced legacy `pickle` serialization with JSON-safe pipelines.
-- 🎓 **Academic Excellence:** Graduated with a **B.E. in Computer Engineering** from *Modern Education Society's Wadia College of Engineering, Pune* (**9.02 / 10 CGPA**).
+- 🧪 **Testing & Quality:** Scaled automated test suites to **632 tests** across frontend and backend using **Jest, React Testing Library, and pytest**.
+- 🚀 **High-Throughput Pipelines:** Standardized file-upload workflows across **14 application screens**, increasing capacity **6x** and instrumenting **113 failure paths** with **Sentry & OpenTelemetry**.
+- 🛡️ **Reliability & Security:** Resolved **15 high-priority production exceptions**, engineered structured audit logging across **7 core user actions**, ran zero-downtime **MySQL** migrations, and replaced legacy `pickle` serialization with JSON-safe pipelines.
+- 🏆 **AI & Computer Vision:** Co-developed an end-to-end **ResNet-50** OCR and translation pipeline for historical **Modi Script**, winning the **Best Paper Award at ICRACE-2026**.
 
-<br/>
+<br clear="right"/>
+
+---
 
 <details>
-<summary><b>✨ Click to expand my Career Journey, Research & Achievements</b></summary>
+<summary><b>✨ Click to expand my Education, Research & Competition Wins</b></summary>
 <br/>
 
-#### 💼 Experience @ CrelioHealth *(Pune, India)*
-- **Software Developer** *(Aug 2026 – Present)*
-  - Leading automated test expansion (**632 tests** across React & Django) and multi-screen file pipeline standardization (**6x upload limit**, **113 failure paths** tracked via **Sentry & OpenTelemetry**).
-- **Junior Software Developer** *(Aug 2025 – Aug 2026)*
-  - Resolved **15 critical production exceptions**, built structured audit logging across **7 user action types**, ran schema migrations for data traceability, and shipped real-time tables & payment workflows (**AG Grid, Pusher, Redis, Stripe, Razorpay, PhonePe**).
-- **Engineering Intern** *(Feb 2025 – Aug 2025 — Converted via PPO)*
-  - Eliminated security risks by migrating legacy `pickle` serialization to JSON-safe handling and engineered localized US-format date search across clinical records.
-
-#### 🏆 Research, Competitions & Leadership
-- **Best Paper Award — ICRACE-2026:** Co-developed an automated OCR & transliteration pipeline converting handwritten historical **Modi Script** into Devanagari and English using custom image preprocessing and **ResNet-50**.
-- **1st Place — Technovation 2026:** Won 1st Place at the 3rd National-Level Project Competition at MES Wadia College of Engineering, Pune.
-- **Top 7 Finalist — AIT ACM Nexus 3.0:** Placed among the top 7 teams at Army Institute of Technology, Pune.
-- **Event Manager — Techverse MESWCOE:** Led technical event operations and student developer initiatives during college.
-- **Certifications:** *Programming in Java* (NPTEL – **IIT Kharagpur**), *Programming, Data Structures & Algorithms Using Python* (NPTEL – **IIT Madras**), and *The Complete Full-Stack Web Development Bootcamp* (Udemy).
+- 🎓 **B.E. in Computer Engineering** — *Modern Education Society's Wadia College of Engineering, Pune* (**9.02 / 10 CGPA**)
+- 🏆 **Best Paper Award — ICRACE-2026:** Automated Handwritten Modi Script Recognition & Translation into Devanagari and English using image preprocessing and **ResNet-50**.
+- 🥇 **1st Place — Technovation 2026:** 3rd National-Level Project Competition at MES Wadia College of Engineering, Pune.
+- 🌟 **Top 7 Finalist — AIT ACM Nexus 3.0:** National tech showcase at Army Institute of Technology, Pune.
+- 🎀 **Leadership & Certifications:** Event Manager at **Techverse MESWCOE**; certified in *Programming in Java* (NPTEL – **IIT Kharagpur**), *Programming, DSA Using Python* (NPTEL – **IIT Madras**), and *The Complete Full-Stack Web Development Bootcamp*.
 
 </details>
 
 ---
 
-### 🌸 Tech Stack & Everyday Toolkit
+### 💻 Tech Stack & Everyday Toolkit
 
 <div align="center">
 
 **Frontend & UI Craft**
 <p align="center">
-  <img src="https://img.shields.io/badge/React_18-FFB3C6?style=for-the-badge&logo=react&logoColor=3D0C2E" alt="React 18" />
-  <img src="https://img.shields.io/badge/TypeScript-F7CAD0?style=for-the-badge&logo=typescript&logoColor=3D0C2E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Redux-E0AAFF?style=for-the-badge&logo=redux&logoColor=3D0C2E" alt="Redux" />
-  <img src="https://img.shields.io/badge/Node.js-FBC4AB?style=for-the-badge&logo=nodedotjs&logoColor=3D0C2E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5_%26_SCSS-FFCCD5?style=for-the-badge&logo=sass&logoColor=3D0C2E" alt="HTML5 & SCSS" />
-  <img src="https://img.shields.io/badge/AG_Grid_%26_Recharts-FFB3C6?style=for-the-badge&logo=databricks&logoColor=3D0C2E" alt="AG Grid & Recharts" />
+  <img src="https://img.shields.io/badge/React_18-1A1025?style=for-the-badge&logo=react&logoColor=FF69B4" alt="React 18" />
+  <img src="https://img.shields.io/badge/TypeScript-1A1025?style=for-the-badge&logo=typescript&logoColor=E0AAFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-1A1025?style=for-the-badge&logo=redux&logoColor=FF69B4" alt="Redux" />
+  <img src="https://img.shields.io/badge/Node.js-1A1025?style=for-the-badge&logo=nodedotjs&logoColor=E0AAFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5_%26_SCSS-1A1025?style=for-the-badge&logo=sass&logoColor=FF69B4" alt="HTML5 & SCSS" />
+  <img src="https://img.shields.io/badge/AG_Grid_%26_Recharts-1A1025?style=for-the-badge&logo=databricks&logoColor=E0AAFF" alt="AG Grid & Recharts" />
 </p>
 
 **Backend, Databases & Search**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python_3.13-E0AAFF?style=for-the-badge&logo=python&logoColor=3D0C2E" alt="Python" />
-  <img src="https://img.shields.io/badge/Django_%26_DRF-FFB3C6?style=for-the-badge&logo=django&logoColor=3D0C2E" alt="Django & DRF" />
-  <img src="https://img.shields.io/badge/MySQL-F7CAD0?style=for-the-badge&logo=mysql&logoColor=3D0C2E" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-FBC4AB?style=for-the-badge&logo=mongodb&logoColor=3D0C2E" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-FFCCD5?style=for-the-badge&logo=redis&logoColor=3D0C2E" alt="Redis" />
-  <img src="https://img.shields.io/badge/Elasticsearch-E0AAFF?style=for-the-badge&logo=elasticsearch&logoColor=3D0C2E" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Python_3.13-1A1025?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python" />
+  <img src="https://img.shields.io/badge/Django_%26_DRF-1A1025?style=for-the-badge&logo=django&logoColor=E0AAFF" alt="Django & DRF" />
+  <img src="https://img.shields.io/badge/MySQL-1A1025?style=for-the-badge&logo=mysql&logoColor=FF69B4" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1A1025?style=for-the-badge&logo=mongodb&logoColor=E0AAFF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-1A1025?style=for-the-badge&logo=redis&logoColor=FF69B4" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-1A1025?style=for-the-badge&logo=elasticsearch&logoColor=E0AAFF" alt="Elasticsearch" />
 </p>
 
-**Cloud, Testing & Observability**
+**Cloud, Testing, Observability & AI**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FFB3C6?style=for-the-badge&logo=amazonaws&logoColor=3D0C2E" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-F7CAD0?style=for-the-badge&logo=docker&logoColor=3D0C2E" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jest_%26_RTL-E0AAFF?style=for-the-badge&logo=jest&logoColor=3D0C2E" alt="Jest & RTL" />
-  <img src="https://img.shields.io/badge/pytest-FBC4AB?style=for-the-badge&logo=pytest&logoColor=3D0C2E" alt="pytest" />
-  <img src="https://img.shields.io/badge/Sentry_%26_OpenTelemetry-FFCCD5?style=for-the-badge&logo=sentry&logoColor=3D0C2E" alt="Sentry & OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Git_%26_CI/CD-FFB3C6?style=for-the-badge&logo=githubactions&logoColor=3D0C2E" alt="Git & CI/CD" />
-</p>
-
-**AI, Vision & Document Craft**
-<p align="center">
-  <img src="https://img.shields.io/badge/ResNet--50_%26_OCR-E0AAFF?style=for-the-badge&logo=pytorch&logoColor=3D0C2E" alt="ResNet-50 & OCR" />
-  <img src="https://img.shields.io/badge/Supabase-F7CAD0?style=for-the-badge&logo=supabase&logoColor=3D0C2E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/LaTeX-FFB3C6?style=for-the-badge&logo=latex&logoColor=3D0C2E" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/AWS-1A1025?style=for-the-badge&logo=amazonaws&logoColor=FF69B4" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-1A1025?style=for-the-badge&logo=docker&logoColor=E0AAFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest_%26_pytest-1A1025?style=for-the-badge&logo=pytest&logoColor=FF69B4" alt="Jest & pytest" />
+  <img src="https://img.shields.io/badge/Sentry_%26_OpenTelemetry-1A1025?style=for-the-badge&logo=sentry&logoColor=E0AAFF" alt="Sentry & OpenTelemetry" />
+  <img src="https://img.shields.io/badge/ResNet--50_%26_OCR-1A1025?style=for-the-badge&logo=pytorch&logoColor=FF69B4" alt="ResNet-50 & OCR" />
+  <img src="https://img.shields.io/badge/Git_%26_CI/CD-1A1025?style=for-the-badge&logo=githubactions&logoColor=E0AAFF" alt="Git & CI/CD" />
 </p>
 
 </div>
 
 ---
 
-### 💖 GitHub Stats & Streaks
+### 💖 GitHub Activity & Streaks
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nehalakhdive&show_icons=true&include_all_commits=true&bg_color=FFF0F5&title_color=D63384&icon_color=FF69B4&text_color=4A154B&border_color=FFB3C6&border_radius=14" alt="Neha's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalakhdive&layout=compact&bg_color=FFF0F5&title_color=D63384&text_color=4A154B&border_color=FFB3C6&border_radius=14" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nehalakhdive&background=1A1025&border=FF69B4&stroke=9D4EDD&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=E0AAFF&dates=C77DFF&border_radius=14" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nehalakhdive&background=FFF0F5&border=FFB3C6&stroke=FFB3C6&ring=FF69B4&fire=D63384&currStreakNum=4A154B&sideNums=4A154B&currStreakLabel=D63384&sideLabels=D63384&dates=8E4162&border_radius=14" alt="GitHub Streak" />
-</p>
+<br/>
 
-<!-- Fluid Pastel Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,50:FF85A2,100:FFB3C6&height=115&section=footer" width="100%" alt="Footer Wave" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalakhdive&bg_color=1A1025&color=FF69B4&line=FF1493&point=E0AAFF&area=true&area_color=9D4EDD&hide_border=false&border_color=FF69B4&radius=14" width="95%" alt="Contribution Graph" />
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,55:9D4EDD,100:1A1025&height=115§ion=footer" width="100%" alt="Footer Wave" />
