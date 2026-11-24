@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- Custom Hero Banner with coder-girl.jpg in the Background -->
+<!-- Custom Hero Banner -->
 <img src="./hero-banner.jpg" width="100%" alt="This Barbie is an Engineer - Neha Lakhdive" />
 
-<br/><br/>
-
-<!-- Fixed Animated Typing Tagline (Properly URL-Encoded) -->
-<a href="https://github.com/nehalakhdive">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=coder+girl+%E2%80%A2+sorceress%2C+witch%2C+fairy+%E2%9C%A8;Full-Stack+Developer+%7C+React%2C+TypeScript%2C+Python+%26+Django+%F0%9F%92%BB;Best+Paper+Awardee+%40+ICRACE-2026+%28Modi+Script+OCR%29+%F0%9F%8F%86;Making+backend+architecture+cute%2C+fast+%26+resilient+%F0%9F%8C%B8" alt="Animated Typing Tagline" />
+<!-- Self-Hosted Animated Tagline -->
+<img src="./typing.svg" width="100%" alt="dream it • code it • git it girl" />
 </a>
 
 <br/>
@@ -28,27 +25,28 @@
 
 ---
 
-### 🎀 `coder girl` *[koh-der girl]*
-> **noun** — *A girl with magical powers who can hack your day.*  
-> **Synonyms:** *sorceress, witch, fairy* ✨
+### 🎀 `Girl_{Code}` • About Me
 
-Hi, I'm **Neha** (`she/her`) — a **Full-Stack Software Developer** who loves dark-mode terminals with hot-pink syntax highlighting just as much as rock-solid distributed backends. 💻🌸
+> **`> dream it` • `> code it` • `> git it girl`** 💻✨  
+> *🎀 I'm just a girl... who loves dark-mode IDEs, hot-pink syntax themes, and rock-solid distributed backends.*
 
-With **1.5+ years of production full-stack engineering experience**, I build scalable web applications across **React, TypeScript, Python, and Django**—turning complex clinical and enterprise workflows into snappy, intuitive interfaces.
+Hi, I'm **Neha** (`she/her`) — a **Full-Stack Software Developer** obsessed with building interfaces that look effortless and backend systems that never flinch under pressure. 🌸
 
-- 🧪 **Testing & Quality:** Scaled automated test suites to **632 tests** across frontend and backend using **Jest, React Testing Library, and pytest**.
-- 🚀 **High-Throughput Pipelines:** Standardized file-upload workflows across **14 application screens**, increasing capacity **6x** and instrumenting **113 failure paths** with **Sentry & OpenTelemetry**.
-- 🛡️ **Reliability & Security:** Resolved **15 high-priority production exceptions**, engineered structured audit logging across **7 core user actions**, ran zero-downtime **MySQL** migrations, and replaced legacy `pickle` serialization with JSON-safe pipelines.
-- 🏆 **AI & Computer Vision:** Co-developed an end-to-end **ResNet-50** OCR and translation pipeline for historical **Modi Script**, winning the **Best Paper Award at ICRACE-2026**.
+With **1.5+ years of production full-stack engineering experience**, I design, test, and ship end-to-end features across **React, TypeScript, Python, and Django**—turning complex enterprise and clinical workflows into fast, resilient web applications.
+
+- 🧪 **Test Architecture & Quality:** Scaled automated test suites to **632 tests** across frontend and backend using **Jest, React Testing Library, and pytest** so deployments stay drama-free.
+- 🚀 **High-Throughput File Workflows:** Standardized file-handling pipelines across **14 application screens**, boosting upload capacity **6x** and instrumenting **113 failure paths** with **Sentry & OpenTelemetry**.
+- 🛡️ **Production Reliability & Security:** Squashed **15 high-priority production exceptions**, architected structured audit logging across **7 core user actions**, executed zero-downtime **MySQL** migrations, and replaced legacy `pickle` serialization with JSON-safe pipelines.
+- 🧠 **Applied AI & Computer Vision:** Co-developed an end-to-end **ResNet-50** OCR and translation pipeline converting historical **Modi Script** into Devanagari and English.
 
 <br/>
 
 <details>
-<summary><b>✨ Click to expand my Education, Research & Competition Wins</b></summary>
+<summary><b>✨ Click to expand my Education, Projects & Competition Wins</b></summary>
 <br/>
 
 - 🎓 **B.E. in Computer Engineering** — *Modern Education Society's Wadia College of Engineering, Pune* (**9.02 / 10 CGPA**)
-- 🏆 **Best Paper Award — ICRACE-2026:** Automated Handwritten Modi Script Recognition & Translation into Devanagari and English using image preprocessing and **ResNet-50**.
+- 📜 **Handwritten Modi Script OCR & Translation:** Built an automated recognition and translation pipeline converting historical Modi script into Devanagari and English using image preprocessing and **ResNet-50**.
 - 🥇 **1st Place — Technovation 2026:** 3rd National-Level Project Competition at MES Wadia College of Engineering, Pune.
 - 🌟 **Top 7 Finalist — AIT ACM Nexus 3.0:** National tech showcase at Army Institute of Technology, Pune.
 - 🎀 **Leadership & Certifications:** Event Manager at **Techverse MESWCOE**; certified in *Programming in Java* (NPTEL – **IIT Kharagpur**), *Programming, DSA Using Python* (NPTEL – **IIT Madras**), and *The Complete Full-Stack Web Development Bootcamp*.
@@ -95,17 +93,35 @@ With **1.5+ years of production full-stack engineering experience**, I build sca
 
 ---
 
-### 💖 GitHub Activity & Streaks
+### 💖 Featured Builds & Engineering Spotlights
+
+#### 📜 Handwritten Modi Script Recognition & Translation Pipeline
+- **What it does:** Digitizes historical handwritten Modi script manuscripts and translates them into modern Devanagari and English.
+- **How it's built:** Combines custom OpenCV image preprocessing, character segmentation, and a fine-tuned **ResNet-50** deep learning classifier backed by **Python** and **Supabase**.
+
+#### ⚡ Multi-Screen File Pipeline & Observability Architecture
+- **What it does:** Unified fragmented file-upload workflows across **14 production screens** while raising upload capacity **6x**.
+- **How it's built:** Engineered shared **React + TypeScript** upload abstractions with strict client-side validation and instrumented **113 granular failure paths** via **Sentry** and **OpenTelemetry**.
+
+#### 🧪 Full-Stack Test Automation & Audit Trail Modernization
+- **What it does:** Hardened mission-critical clinical workflows against regressions, silent failures, and unsafe serialization.
+- **How it's built:** Expanded test coverage to **632 automated tests** (**Jest, React Testing Library, pytest**), built structured audit logging across **7 user action types**, and migrated legacy `pickle` payloads to JSON-safe handlers.
+
+---
+
+### 🌸 `Hello World` • Coder Girl Moodboard
+
+<p align="center">
+  <img src="./barbie-engineer.jpg" width="31%" alt="This Barbie is an Engineer Moodboard" />
+   
+  <img src="./software-engineer.jpg" width="31%" alt="Software Engineer Dark Mode Aesthetic" />
+   
+  <img src="./girl-code.jpg" width="31%" alt="Dream it, Code it, Git it girl" />
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nehalakhdive&background=1A1025&border=FF69B4&stroke=9D4EDD&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=E0AAFF&dates=C77DFF&border_radius=14" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalakhdive&bg_color=1A1025&color=FF69B4&line=FF1493&point=E0AAFF&area=true&area_color=9D4EDD&hide_border=false&border_color=FF69B4&radius=14" width="95%" alt="Contribution Graph" />
+  <sub><code>Hello World!</code> • Powered by React, Django, caffeine, and main-character energy ✨</sub>
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,55:9D4EDD,100:1A1025&height=115&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,55:9D4EDD,100:1A1025&height=115§ion=footer" width="100%" alt="Footer Wave" />
