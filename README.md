@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Dark Cyber-Plum to Hot Barbie Pink Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,45:9D4EDD,100:FF1493&height=225§ion=header&text=This%20Barbie%20is%20an%20Engineer%20%E2%9C%A8&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Hi%2C%20I'm%20Neha%20Lakhdive%20%7C%20Full-Stack%20Software%20Developer%20%F0%9F%92%BB%F0%9F%8E%80&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="This Barbie is an Engineer Header" />
+<!-- Custom Hero Banner with coder-girl.jpg in the Background -->
+<img src="./hero-banner.jpg" width="100%" alt="This Barbie is an Engineer - Neha Lakhdive" />
 
-<!-- Animated Typing Tagline -->
+<br/><br/>
+
+<!-- Fixed Animated Typing Tagline (Properly URL-Encoded) -->
 <a href="https://github.com/nehalakhdive">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=1000&color=FF1493¢er=true&vCenter=true&width=660&lines=coder+girl+%5Bkoh-der+g%C9%99%3Al%5D+%E2%80%A2+sorceress%2C+witch%2C+fairy+%E2%9C%A8;Full-Stack+Developer+%7C+React%2C+TypeScript%2C+Python+%26+Django+%F0%9F%92%BB;Best+Paper+Awardee+%40+ICRACE-2026+(Modi+Script+OCR)+%F0%9F%8F%86;Making+backend+architecture+cute%2C+fast+%26+resilient+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=coder+girl+%E2%80%A2+sorceress%2C+witch%2C+fairy+%E2%9C%A8;Full-Stack+Developer+%7C+React%2C+TypeScript%2C+Python+%26+Django+%F0%9F%92%BB;Best+Paper+Awardee+%40+ICRACE-2026+%28Modi+Script+OCR%29+%F0%9F%8F%86;Making+backend+architecture+cute%2C+fast+%26+resilient+%F0%9F%8C%B8" alt="Animated Typing Tagline" />
 </a>
 
 <br/>
@@ -26,10 +28,7 @@
 
 ---
 
-<!-- Responsive Floated Pixel-Art Coder Girl + Dictionary Definition -->
-<img align="right" width="265" src="./coder-girl.jpg" alt="Lo-fi pixel art girl coding at dual monitors" />
-
-### 🎀 `coder girl` *[koh-der gə:l]*
+### 🎀 `coder girl` *[koh-der girl]*
 > **noun** — *A girl with magical powers who can hack your day.*  
 > **Synonyms:** *sorceress, witch, fairy* ✨
 
@@ -42,9 +41,7 @@ With **1.5+ years of production full-stack engineering experience**, I build sca
 - 🛡️ **Reliability & Security:** Resolved **15 high-priority production exceptions**, engineered structured audit logging across **7 core user actions**, ran zero-downtime **MySQL** migrations, and replaced legacy `pickle` serialization with JSON-safe pipelines.
 - 🏆 **AI & Computer Vision:** Co-developed an end-to-end **ResNet-50** OCR and translation pipeline for historical **Modi Script**, winning the **Best Paper Award at ICRACE-2026**.
 
-<br clear="right"/>
-
----
+<br/>
 
 <details>
 <summary><b>✨ Click to expand my Education, Research & Competition Wins</b></summary>
@@ -111,4 +108,4 @@ With **1.5+ years of production full-stack engineering experience**, I build sca
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,55:9D4EDD,100:1A1025&height=115§ion=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,55:9D4EDD,100:1A1025&height=115&section=footer" width="100%" alt="Footer Wave" />
