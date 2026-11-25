@@ -31,7 +31,7 @@
   <a href="#achievements-and-recognition"><kbd>05 // Recognition</kbd></a>  · 
   <a href="#education"><kbd>06 // Education</kbd></a>  · 
   <a href="#github-activity-dashboard"><kbd>07 // GitHub Metrics</kbd></a>  · 
-  <a href="#lets-connect"><kbd>09 // Connect</kbd></a>
+  <a href="#lets-connect"><kbd>08 // Connect</kbd></a>
 </p>
 
 </div>
@@ -354,17 +354,8 @@ production_snapshot:
 
 <img src="./assets/neon-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- SECTION 9: WOMEN IN TECH -->
-## `08 //` Techy Me
-
-<div align="center">
-  <img src="./assets/women-in-tech.svg" width="100%" alt="Building the Future, One Commit at a Time" />
-</div>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="Section Divider" />
-
 <!-- SECTION 10: LET'S CONNECT -->
-## `09 //` Let's Connect
+## `08 //` Let's Connect
 
 <div align="center">
 
@@ -381,9 +372,6 @@ production_snapshot:
   </a>
   <a href="mailto:[YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Send_an_Email-0D0D14?style=for-the-badge&logo=gmail&logoColor=FF2A85" alt="Send an Email" />
-  </a>
-  <a href="[PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0D0D14?style=for-the-badge&logo=vercel&logoColor=B388FF" alt="Live Portfolio" />
   </a>
 </p>
 
