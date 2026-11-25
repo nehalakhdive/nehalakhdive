@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 50" width="100%" height="50">
+  <rect x="1" y="1" width="818" height="48" rx="10" fill="#0D0D14" stroke="#2D1B3D" stroke-width="1.5" />
+  <style>
+    .prefix {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 16px;
+      font-weight: 700;
+      fill: #B388FF;
+    }
+    .role {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 17px;
+      font-weight: 700;
+      fill: #FF2A85;
+      opacity: 0;
+    }
+    .r1 { animation: cycle 15s infinite 0s; }
+    .r2 { animation: cycle 15s infinite 3s; }
+    .r3 { animation: cycle 15s infinite 6s; }
+    .r4 { animation: cycle 15s infinite 9s; }
+    .r5 { animation: cycle 15s infinite 12s; }
+
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(6px); }
+      3%, 17% { opacity: 1; transform: translateY(0); }
+      20%, 100% { opacity: 0; transform: translateY(-6px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .r1 { opacity: 1; animation: none; }
+    }
+  </style>
+
+  <text x="28" y="31" class="prefix">neha@dev:~$ current_focus --role</text>
+  <text x="365" y="31" class="role r1">"Software Developer" ▋</text>
+  <text x="365" y="31" class="role r2">"Full-Stack Engineer" ▋</text>
+  <text x="365" y="31" class="role r3">"Backend Developer" ▋</text>
+  <text x="365" y="31" class="role r4">"Problem Solver" ▋</text>
+  <text x="365" y="31" class="role r5">"Women in Tech" ▋</text>
+</svg>

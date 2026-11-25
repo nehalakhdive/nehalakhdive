@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="witBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B13" />
+      <stop offset="100%" stop-color="#190D26" />
+    </linearGradient>
+    <linearGradient id="witAccent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF007F" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="14" fill="url(#witBg)" stroke="#3B1D54" stroke-width="1.5" />
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="url(#witAccent)" />
+
+  
+  <g transform="translate(1035, 110)" opacity="0.75">
+    <polygon points="0,-72 62,-36 62,36 0,72 -62,36 -62,-36" fill="none" stroke="#FF2A85" stroke-width="1.5" />
+    <polygon points="0,-48 42,-24 42,24 0,48 -42,24 -42,-24" fill="none" stroke="#B388FF" stroke-width="1.2" />
+    <line x1="-62" y1="-36" x2="62" y2="36" stroke="#7C3AED" stroke-width="1" />
+    <line x1="62" y1="-36" x2="-62" y2="36" stroke="#7C3AED" stroke-width="1" />
+    <circle cx="0" cy="0" r="8" fill="#FF007F" />
+  </g>
+
+  <text x="44" y="48" font-family="&#39;SFMono-Regular&#39;, Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2.5" fill="#FF2A85">
+    WOMEN IN TECHNOLOGY // PERSPECTIVE
+  </text>
+
+  <text x="44" y="90" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">
+    Building the Future, One Commit at a Time.
+  </text>
+
+  <text x="44" y="132" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15.5" fill="#CBD5E1">
+    Engineering is defined by architectural rigor, clarity of thought, and the courage to tackle hard problems.
+  </text>
+  <text x="44" y="158" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15.5" fill="#CBD5E1">
+    I believe in shipping production software that speaks for itself—challenging outdated assumptions, mentoring peers,
+  </text>
+  <text x="44" y="184" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15.5" fill="#CBD5E1">
+    and expanding space for more women to lead, architect, and innovate across the software engineering ecosystem.
+  </text>
+</svg>
