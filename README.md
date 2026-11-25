@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SECTION 1: IMMERSIVE HERO SECTION -->
-<img src="./assets/hero-banner.svg" width="100%" alt="Neha Lakhdive — Software Developer, Full-Stack Engineer" />
+<img src="./assets/hero-banner.svg?v=2" width="100%" alt="Neha Lakhdive — Software Developer, Full-Stack Engineer" />
 
 <br></br>
 
