@@ -202,7 +202,7 @@ production_snapshot:
         <img src="https://img.shields.io/badge/OCR_%26_Deep_Learning-0D0D14?style=flat-square&logoColor=B388FF" alt="OCR and Deep Learning" />
          | 
         <a href="https://github.com/nehalakhdive/modi-script-translator"><strong>Repository Link ↗</strong></a>  · 
-        <a href="https://drive.google.com/file/d/1550cvwhzY11KSi9tBzvhCklkaFYOMgBQ/view?usp=sharing"><strong>ICRACE 2026 Paper ↗</strong></a>
+        <a href="https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing"><strong>ICRACE 2026 Paper ↗</strong></a>
       </p>
     </td>
   </tr>
@@ -274,7 +274,7 @@ production_snapshot:
       <ul>
         <li>
           <strong>Best Paper Award — ICRACE 2026</strong><br/>
-          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing">Paper ↗</a>
+          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing">Certificate ↗</a>
         </li>
         <li>
           <strong>1st Place — Technovation 2026</strong><br/>
