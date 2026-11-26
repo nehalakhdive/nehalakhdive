@@ -274,7 +274,7 @@ production_snapshot:
       <ul>
         <li>
           <strong>Best Paper Award — ICRACE 2026</strong><br/>
-          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing">Certificate ↗</a>
+          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="https://drive.google.com/file/d/1550cvwhzY11KSi9tBzvhCklkaFYOMgBQ/view?usp=drive_link">Certificate ↗</a>
         </li>
         <li>
           <strong>1st Place — Technovation 2026</strong><br/>
