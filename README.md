@@ -86,7 +86,7 @@ production_snapshot:
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4><code>03 // AUG 2026 – PRESENT</code></h4>
+      <h4><code>03 // NOV 2026 – PRESENT</code></h4>
       <h3>Software Developer</h3>
       <p><strong>Focus:</strong> Scalable Architecture, Test Engineering & Observability</p>
       <ul>
@@ -96,7 +96,7 @@ production_snapshot:
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4><code>02 // AUG 2025 – AUG 2026</code></h4>
+      <h4><code>02 // AUG 2025 – NOV 2026</code></h4>
       <h3>Junior Software Developer</h3>
       <p><strong>Focus:</strong> Production Reliability, Auditability & Core Workflows</p>
       <ul>
@@ -201,8 +201,8 @@ production_snapshot:
         <img src="https://img.shields.io/badge/Computer_Vision-0D0D14?style=flat-square&logo=opencv&logoColor=FF2A85" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/OCR_%26_Deep_Learning-0D0D14?style=flat-square&logoColor=B388FF" alt="OCR and Deep Learning" />
          | 
-        <a href="[REPOSITORY_URL]"><strong>Repository Link ↗</strong></a>  · 
-        <a href="[PUBLICATION_URL]"><strong>ICRACE 2026 Paper ↗</strong></a>
+        <a href="https://github.com/nehalakhdive/modi-script-translator"><strong>Repository Link ↗</strong></a>  · 
+        <a href="https://drive.google.com/file/d/1550cvwhzY11KSi9tBzvhCklkaFYOMgBQ/view?usp=sharing"><strong>ICRACE 2026 Paper ↗</strong></a>
       </p>
     </td>
   </tr>
@@ -274,7 +274,7 @@ production_snapshot:
       <ul>
         <li>
           <strong>Best Paper Award — ICRACE 2026</strong><br/>
-          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="[[PUBLICATION_URL](https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing)]">Paper ↗</a>
+          <em>1st International Conference on Recent Advances in Computer Engineering</em> • <a href="https://drive.google.com/file/d/1447odykK7bYoXd-ls5Ql7b6a6KrsJiP2/view?usp=sharing">Paper ↗</a>
         </li>
         <li>
           <strong>1st Place — Technovation 2026</strong><br/>
